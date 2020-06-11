@@ -1,0 +1,2 @@
+# Web-Crawler-Anue
+使用selenium模組自動化操作chrome瀏覽器爬取Anue鉅亨網每日所有財經新聞，資料將存至sqlite，將anue.bat檔中full_path改為本地端完整路徑後加入排程即可自動執行
